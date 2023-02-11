@@ -1,6 +1,6 @@
 /**
  * @author Trayan Tsonev
- * @id 12127140
+ * @id
  */
 
 class StoreItem(var id: Int, var name: String, var value: Int) extends Item with Logger {
